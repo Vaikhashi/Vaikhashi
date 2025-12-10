@@ -1,66 +1,71 @@
-<h1 align="center">🌟 Hi, I'm Vaikhashi A 🌟</h1>
-<h3 align="center">Python & Web Developer | AI/ML Explorer | Tech Enthusiast | Space Ethusiast🚀</h3>
+
+
+# 🌿 Hi, I'm **Vaikhashi A**
+
+### Python & Web Developer · AI/ML Explorer ✨
 
 ---
 
-### 👩‍💻 About Me
+## 🌱 About Me
 
-- 🎓 B.Tech CSE Student @ College of Engineering Cherthala (2026)
-- 🎖️ Additional Honors Degree in **Artificial Intelligence & Machine Learning**
-- 🐍 Focusing on **Python Full Stack Development** (Flask, Django, REST APIs, PostgreSQL)
-- 💻 Also experienced in **MERN Stack** (MongoDB, Express, React, Node.js)
-- 🤖 Passionate about building smart, ethical tech using AI/ML
-- 🛰 Dreaming  of working in space-tech and futuristic innovations
+I'm a final-year CSE student (Hons. in AI & ML) who loves building meaningful, thoughtful, and user-focused software.
+
+I enjoy full-stack development, experimenting with ML models, analyzing data, and creating systems that feel clean and intuitive.
+Always learning. Always exploring. Always improving.
 
 ---
 
-### 🔭 Projects
+## 🛠️ What I Build
 
-- 💼 **SkillSync** *(In Progress)* – AI-powered platform for personalized career & learning path recommendation  
-- 🔐 **SafeFace** *(Coming Soon)* – ML-based tool for detecting and reporting image-based abuse  
-- 🍕 **Pizza Delivery App** – Full-stack CRUD app with user & admin features  
-- 🛠 **Labour Connect** – Connecting local workers with job opportunities in their region
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-`Python` `JavaScript` `C` `Java`
-
-**Frameworks & Libraries:**  
-`Flask` `Django` `React` `Node.js` `Express.js`
-
-**Tools & Platforms:**  
-`MongoDB` `MySQL` `PostgreSQL` `Firebase` `Tailwind CSS` `Git` `GitHub` `VS Code`
+* **SkillSync** – Career & learning path recommendation platform powered by AI
+* **Real-Time Subtitle App** (In Progress) – Live subtitle generation using Speech Recognition + NLP
+* **Face Recognition System** – Deep learning–based face detection & matching
+* **Pizza Delivery App** – Full-stack CRUD system with admin features
+* **Labour Connect** – Community platform helping workers find local opportunities
 
 ---
 
-### 📈 GitHub Stats
+## 💻 Tech Stack
 
-![Vaikhashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaikhashi&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vaikhashi&theme=radical)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaikhashi&layout=compact&theme=radical)
+**Languages:**
+Python · JavaScript · C · Java · SQL
 
----
+**Web / Backend:**
+Flask · Django · React · Node.js · Express.js · REST APIs
 
-### 🌐 Connect With Me
+**AI / ML:**
+Pandas · NumPy · Deep Learning · CNN · NLP
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaikhashi-a-7ab540237)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:vaikhashi3134@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Vaikhashi)
+**Data & Analytics:**
+Power BI · Tableau · Excel
 
----
-
-### ✨ Fun Fact
-
-> “I love solving problems with code and dream of building technologies that reach beyond Earth!”
+**Tools:**
+Git · GitHub · AWS · Linux · VS Code
 
 ---
 
-<!---
-Vaikhashi/Vaikhashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to see your changes in action.
---->
+## 📊 GitHub Stats
+
+![Vaikhashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaikhashi\&show_icons=true\&theme=calm)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vaikhashi\&theme=calm)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaikhashi\&layout=compact\&theme=calm)
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/vaikhashi-a-7ab540237)
+[Email](mailto:vaikhashi3134@gmail.com)
+[GitHub](https://github.com/Vaikhashi)
+
+---
+
+## ✨ A Small Note
+
+I love solving problems, exploring ideas, and building software that feels elegant, practical, and thoughtful.
+If a topic sparks my curiosity, I follow it — and most of my projects start exactly like that.
+
+---
+
 
 
