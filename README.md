@@ -46,9 +46,11 @@ Git · GitHub · AWS · Linux · VS Code
 
 ## 📊 GitHub Stats
 
-![Vaikhashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaikhashi\&show_icons=true\&theme=calm)
-![GitHub Streak](https://streak-stats.demolab.com?user=Vaikhashi\&theme=calm)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaikhashi\&layout=compact\&theme=calm)
+![Vaikhashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaikhashi&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Vaikhashi)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaikhashi&layout=compact)
 
 ---
 
@@ -60,12 +62,9 @@ Git · GitHub · AWS · Linux · VS Code
 
 ---
 
-## ✨ A Small Note
-
 I love solving problems, exploring ideas, and building software that feels elegant, practical, and thoughtful.
 If a topic sparks my curiosity, I follow it — and most of my projects start exactly like that.
 
----
 
 
 
