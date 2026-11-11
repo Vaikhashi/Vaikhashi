@@ -20,7 +20,7 @@ Every one of these has a demo you can play on my [portfolio](https://vaikhashi.g
 
 ### Stack
 
-<img src="assets/stack.svg" width="100%" alt="ERP: Oracle Fusion Cloud, Oracle AI Agent Studio, PL/SQL, BI Publisher, ORDS. Languages: Python, SQL, JavaScript, Java, C. Backend: FastAPI, Node.js, Express, REST APIs. Frontend: React, Vite, Tailwind, EJS. ML: PyTorch, scikit-learn, OpenCV, Pandas, NumPy. Tools: Git, Linux, VS Code.">
+<img src="assets/stack.svg" width="100%" alt="ERP: Oracle Fusion Cloud, Oracle AI Agent Studio, PL/SQL, BI Publisher, ORDS. Languages: Python, SQL, JavaScript, Java, C. Backend: FastAPI, Flask, Django, Node.js, Express. Frontend: React, Vite, Tailwind, EJS. ML: PyTorch, scikit-learn, OpenCV, Pandas, NumPy. Tools: Git, Linux, AWS, VS Code, Power BI.">
 
 Shortlisted for the IET India Scholarship Award, regional round.
 
